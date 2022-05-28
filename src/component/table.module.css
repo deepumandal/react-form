@@ -1,0 +1,30 @@
+.lists{
+    /* border: 1px solid red; */
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 88%;
+    padding: 30px;
+    margin: auto;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.lists>li{
+    width: fit-content;
+    height: fit-content;
+}
+.list{
+    /* border: 1px solid red; */
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 88%;
+   margin: auto;
+   padding: 5px;
+}
+li{
+    /* border: 1px solid red; */
+    text-align: center;
+    width: 100%;
+    height: 82px;
+}

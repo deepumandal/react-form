@@ -1,0 +1,23 @@
+.form{
+    /* border: 1px solid red; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex; 
+   flex-direction: column;
+    width: fit-content;
+    margin: auto;
+    padding: 20px;
+}
+.form>div{
+    display: flex;
+    margin: 4px;
+}
+h1{
+    width: fit-content;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+button{
+    width: fit-content;
+ 
+    margin: 12px auto;
+}
